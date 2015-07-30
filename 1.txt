@@ -21,5 +21,8 @@ web app vs native app
 http://www.ruanyifeng.com/blog/2015/02/future-of-dom.html
 
 
+dev-blog
+
+
 
 
