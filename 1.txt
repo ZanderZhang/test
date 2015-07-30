@@ -17,5 +17,9 @@ app挺好看的:
 发起一个捡人.
 
 
+web app vs native app 
+http://www.ruanyifeng.com/blog/2015/02/future-of-dom.html
+
+
 
 
