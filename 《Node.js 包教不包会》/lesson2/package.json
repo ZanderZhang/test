@@ -1,0 +1,11 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "1",
+  "scripts": {
+    "test": "123"
+  },
+  "author": "zhangyong",
+  "license": "MIT"
+}
