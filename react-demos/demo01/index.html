@@ -1,16 +1,17 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <script src="../build/react.js"></script>
-    <script src="../build/JSXTransformer.js"></script>
-  </head>
-  <body>
-    <div id="example"></div>
-    <script type="text/jsx">
-      React.render(
-        <h1>Hellasdfo, world!</h1>,
-        document.getElementById('example')
-      );
-    </script>
-  </body>
+<head>
+<script src="/jquery/jquery-1.11.1.min.js"></script>
+<script>
+function myFunction()
+{
+$("h01").writeAttribute("style","color:red").insert("Hello Prototype!");
+}
+Event.observe(window,"load",myFunction);
+</script>
+</head>
+
+<body>
+<h1 id="h01"></h1>
+</body>
 </html>
